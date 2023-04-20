@@ -1,0 +1,14 @@
+8.1190158 seconds difference between sort types for test 1
+8.8814786 seconds difference between sort types for test 2
+8.940293 seconds difference between sort types for test 3
+8.939992801 seconds difference between sort types for test 4
+8.948700999 seconds difference between sort types for test 5
+8.955133899 seconds difference between sort types for test 6
+8.943934 seconds difference between sort types for test 7
+8.9517151 seconds difference between sort types for test 8
+8.941339999 seconds difference between sort types for test 9
+8.9283167 seconds difference between sort types for test 10
+
+Average single sort time: 10.7655228198 seconds
+Average threaded sort time: 1.91053073 seconds
+Difference between average times: 82.25324712993833%
